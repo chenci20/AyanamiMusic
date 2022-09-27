@@ -9,6 +9,8 @@
         "src/*"
       ]
     },
+    // 打开typescript智能语法提示（否则控制台会报问题）
+    "jsx": "preserve",
     "lib": [
       "esnext",
       "dom",
